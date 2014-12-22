@@ -1,0 +1,1 @@
+﻿#Install-VirtualPackage '7plustaskbartweaker.portable' '7plustaskbartweaker.install'
