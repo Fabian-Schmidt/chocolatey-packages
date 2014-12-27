@@ -2,7 +2,7 @@
 <!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
-    <id>7plustaskbartweaker.install</id>
+    <id>7-taskbar-tweaker.install</id>
     <title>7+ Taskbar Tweaker (Install)</title>
     <version>4.5.6</version>
     <authors>RaMMicHaeL</authors>
@@ -11,11 +11,11 @@
     <description>7+ Taskbar Tweaker allows you to configure various aspects of the Windows taskbar.
 | Please install with chocolatey (http://nuget.org/List/Packages/chocolatey).</description>
     <projectUrl>http://rammichael.com/7-taskbar-tweaker</projectUrl>
-    <tags>7plustaskbartweaker admin</tags>
+    <tags>7-taskbar-tweaker admin</tags>
     <copyright>RaMMicHaeL</copyright>
     <licenseUrl>http://rammichael.com</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl>http://cdn.rawgit.com/Fabian-Schmidt/chocolatey-packages/master/icons/7plustaskbartweaker.png</iconUrl>
+    <iconUrl>http://cdn.rawgit.com/Fabian-Schmidt/chocolatey-packages/master/icons/7-taskbar-tweaker.png</iconUrl>
     <!--<dependencies>
       <dependency id="" version="" />
     </dependencies>-->

@@ -2,7 +2,7 @@
 <!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
-    <id>7plustaskbartweaker</id>
+    <id>7-taskbar-tweaker</id>
     <title>7+ Taskbar Tweaker</title>
     <version>4.5.6</version>
     <authors>RaMMicHaeL</authors>
@@ -11,13 +11,13 @@
     <description>7+ Taskbar Tweaker allows you to configure various aspects of the Windows taskbar.
 | Please install with chocolatey (http://nuget.org/List/Packages/chocolatey).</description>
     <projectUrl>http://rammichael.com/7-taskbar-tweaker</projectUrl>
-    <tags>7plustaskbartweaker</tags>
+    <tags>7-taskbar-tweaker</tags>
     <copyright>RaMMicHaeL</copyright>
     <licenseUrl>http://rammichael.com</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl>http://cdn.rawgit.com/Fabian-Schmidt/chocolatey-packages/master/icons/7plustaskbartweaker.png</iconUrl>
+    <iconUrl>http://cdn.rawgit.com/Fabian-Schmidt/chocolatey-packages/master/icons/7-taskbar-tweaker.png</iconUrl>
     <dependencies>
-      <dependency id="7plustaskbartweaker.install" version="[4.5.6]" />
+      <dependency id="7-taskbar-tweaker.install" version="[4.5.6]" />
     </dependencies>
     <releaseNotes>v4.5.6 (November 22, 2014)
 * Added the "disable_taskbar_transparency" advanced option.

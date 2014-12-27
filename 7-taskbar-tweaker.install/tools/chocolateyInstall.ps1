@@ -1,4 +1,4 @@
-﻿$packageName = '7plustaskbartweaker.install'
+﻿$packageName = '7-taskbar-tweaker.install'
 $installerType = 'EXE'
 $url = 'http://rammichael.com/downloads/7tt_setup.exe'
 $silentArgs = '/S'

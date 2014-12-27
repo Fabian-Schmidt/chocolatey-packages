@@ -1,0 +1,1 @@
+﻿#Install-VirtualPackage '7-taskbar-tweaker.portable' '7-taskbar-tweaker.install'
